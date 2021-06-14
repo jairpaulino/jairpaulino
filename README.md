@@ -25,7 +25,7 @@ Currently doctoral researcher (PhD Candidate) in Computer Science at CIn/UFPE.
 <img src="https://komarev.com/ghpvc/?username=jairpaulino&&style=flat-square" align="center" />
 </div>  
 -->
-  
+   
 <br/>  
 <br/>
 
