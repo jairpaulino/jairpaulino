@@ -22,7 +22,7 @@ Currently doctoral researcher (PhD Candidate) in Computer Science at CIn/UFPE.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairpaulino&hide_border=true&layout=compact&theme=midnight-purple" align="right" width="40%" />
 
 <!-- <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jairpaulino&&style=flat-square" align="center" />
+<img  src="https://komarev.com/ghpvc/?username=jairpaulino&&style=flat-square" align="center" />
 </div>  
 -->
    
