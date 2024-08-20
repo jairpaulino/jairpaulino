@@ -1,7 +1,7 @@
 ### Hi there 👋
-Currently doctoral researcher (PhD Candidate) in Computer Science at CIn/UFPE. 
+PhD in Computer Science at CIn/UFPE. 
 
-- 📈 I’m currently working on a project focused on hybrid time series forecasting.
+- 📈 I’m currently working on a project focused on time series forecasting.
 - 🤓 I’m looking for help with dynamic ensemble selection approaches.
 - 💻 How to reach me: jps4@cin.ufpe.br, jairpsales@(hotmail, gmail).com
 
