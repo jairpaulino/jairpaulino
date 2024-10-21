@@ -1,9 +1,10 @@
 ### Hi there 👋
 PhD in Computer Science at CIn/UFPE. 
+Lecturer at Centro de Ciências Sociais Aplicadas - CCSA/UFCA.
 
 - 📈 I’m currently working on a project focused on time series forecasting.
 - 🤓 I’m looking for help with dynamic ensemble selection approaches.
-- 💻 How to reach me: jps4@cin.ufpe.br, jairpsales@(hotmail, gmail).com
+- 💻 How to reach me: jair.paulino@ufca.edu.br, jairpsales@(hotmail, gmail).com
 
 ### My Skill Set
 <div> 
