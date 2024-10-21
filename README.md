@@ -1,5 +1,6 @@
 ### Hi there 👋
 PhD in Computer Science at CIn/UFPE. 
+
 Lecturer at Centro de Ciências Sociais Aplicadas - CCSA/UFCA.
 
 - 📈 I’m currently working on a project focused on time series forecasting.
